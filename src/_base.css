@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+body {
+  background-color: #91c6ff;
+}
+
+h1,
+h2 {
+  font-family: "Dela Gothic One", sans-serif;
+  color: #c22d20;
+}
+h1 {
+  font-size: 1.8rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-family: inter;
+  font-size: 0.625rem;
+  color: #c22d20;
+}
+
+p {
+  font-family: inter;
+  font-size: 1.125 rem;
+}
+
+footer {
+  background-color: #fffef1;
+}
