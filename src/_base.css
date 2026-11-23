@@ -17,6 +17,7 @@ h1,
 h2 {
   font-family: "Dela Gothic One", sans-serif;
   color: #c22d20;
+  font-weight: 400;
 }
 h1 {
   font-size: 1.8rem;
@@ -39,4 +40,12 @@ p {
 
 footer {
   background-color: #fffef1;
+  color: #c22d20;
+  font-family: inter;
+  font-size: 0.5rem;
+}
+
+li {
+  text-decoration: none;
+  list-style-type: none;
 }
