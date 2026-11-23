@@ -1,4 +1,5 @@
 @import "_base.css";
 @import "modules/_article.css";
-@import "_footer.css";
-@import "_header.css";
+@import "modules/_footer.css";
+@import "modules/_header.css";
+@import "modules/_schedule.css";
